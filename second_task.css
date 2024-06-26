@@ -7,10 +7,10 @@
 }  
 
 
-/*@media screen and (max-width:1180px) { 
+@media screen and (max-width:1180px) { 
   .container{width: 100%;}
   
-}*/
+}
 
 .main-box {
   border: 3px solid rgb(197, 244, 194);
